@@ -99,10 +99,10 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
-    4. 
+    1. Window/Global Object Binding 
+    2. Implicit Binding is the object before the dot. (.) This determines what this is binding to.
+    3. New binding is
+    4. Explicit binding is when the call or apply method is used and this is explicitly defined.
   */
   
   
